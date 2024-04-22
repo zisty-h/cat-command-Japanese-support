@@ -1,7 +1,7 @@
 ﻿# cat-command-Japanese-support
 ## クリエイター
 作者: tanahiro2010<br>
-チーム: Zisty
+チーム: Zisty<br>
 紹介動画: https://www.youtube.com/watch?v=zm0t9iBv_xM
 ## 実行方法
 ```bash
